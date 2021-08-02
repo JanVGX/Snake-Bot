@@ -18,7 +18,7 @@ const snakeGame = new SnakeGame({
 
 const config = {
 
-   prefix: "!"
+   prefix: "+"
 
 }
 
